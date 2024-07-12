@@ -1,11 +1,11 @@
 ## Привет, я Даниил 👋
 
-- Учусь писать чистый код
-- Стремлюсь к работе с большими проектами
-- Хочу работать в большом коллективе
-- Поднимаюсь на новые высоты в кодинге
-- Хочу внести вклад в большой проект
-- Анализирую и работаю над ошибками
+- Интеграция с RESTful API для обмена данными
+- Создание UI элементов на основе общих макетов
+- Использование TypeScript для повышения качества кода
+- Применение принципов DRY и функционального программирования
+- Настройка и оптимизация сборок с помощью Webpack, включая module-federation
+- Разработка и поддержка веб-приложений с использованием React и Redux/Redux-toolkit
 
 ### :hammer_and_pick: Мой стек:
 
@@ -21,20 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20LetNazad&layout=compact&theme=radical)](https://github.com/20LetNazad/github-readme-stats)
 
 ### :envelope: Мои контакты:
-- Telegram: @dan9_sky
+- Telegram: @lastqop
 - Mail: davydovskii.daniil@yandex.ru
-
-<!--
-**20LetNazad/20LetNazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
