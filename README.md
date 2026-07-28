@@ -1,20 +1,24 @@
-## Привет, я Даниил 👋
+## Hi, I'm Daniil
 
-- Интеграция с RESTful API для обмена данными
-- Создание UI элементов на основе общих макетов
-- Использование TypeScript для повышения качества кода
-- Применение принципов DRY и функционального программирования
-- Настройка и оптимизация сборок с помощью Webpack, включая module-federation
-- Разработка и поддержка веб-приложений с использованием React и Redux/Redux-toolkit
+Frontend developer, 3.5 years with React and TypeScript. Right now I'm the only frontend dev on a
+modular platform for managing facilities and work orders — I started it from scratch and own the
+architecture, the project setup and the tests.
 
-### :hammer_and_pick: О себе:
+Most of what I build is business software: role-based access, internationalisation, responsive
+layouts on large products, real-time and maps.
 
-Опытный Front-end разработчик с более чем годом работы в разработке веб-приложений с использованием React, Redux и TypeScript. Обладаю глубокими знаниями в создании адаптивных и кроссбраузерных интерфейсов, интеграции с RESTful API, а также оптимизации сборок с помощью Webpack. Вдохновлен функциональным программированием и непрерывным совершенствованием своих навыков
+**Stack:** TypeScript, React, Vue 3, Redux Toolkit, Zustand, Pinia, TanStack Query, Tailwind, MUI,
+Ant Design, Vite, Vitest.
 
-### :rocket: Моя статистика:
-![20LetNazad's GitHub stats](https://github-readme-stats.vercel.app/api?username=20LetNazad&hide=contribs,prs&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20LetNazad&layout=compact&theme=radical)](https://github.com/20LetNazad/github-readme-stats)
+### What's here
 
-### :envelope: Мои контакты:
-- Telegram: @lastqop
-- Mail: davydovskii.daniil@yandex.ru
+- **[tempo](https://github.com/x3sleep/tempo)** — a time tracker I built end to end. FastAPI and
+  SQLite on the back, React and TypeScript on the front. Layered architecture, Alembic migrations,
+  strict mypy, 375 tests, packaged as a macOS app.
+- **[picpin](https://github.com/x3sleep/picpin)** — a Chrome extension that pops any image out into
+  a window floating above everything else, built on the Document Picture-in-Picture API. Vanilla JS,
+  Manifest V3, 15 languages.
+
+Most of my commercial work lives on private GitLab, so this profile is the small public part of it.
+
+Telegram: [@x3sleep](https://t.me/x3sleep)
